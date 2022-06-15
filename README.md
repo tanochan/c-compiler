@@ -1,4 +1,4 @@
-cで学ぶ低レイヤー
+テイレイヤー　マナブ
 ===
 参考: https://www.sigbus.info/compilerbook
 
@@ -11,3 +11,9 @@ cで学ぶ低レイヤー
 スタックメモリは、関数内で定義されたローカル変数が配置されるメモリ
 
 https://monozukuri-c.com/langc-stack-memory/
+
+## CPU
+### レジスタ
+主なx64レジスタまとめ
+
+https://tryunoo.hatenablog.com/entry/2017/10/15/220724
