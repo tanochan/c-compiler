@@ -17,3 +17,6 @@ https://monozukuri-c.com/langc-stack-memory/
 主なx64レジスタまとめ
 
 https://tryunoo.hatenablog.com/entry/2017/10/15/220724
+
+## C言語
+https://daeudaeu.com/
