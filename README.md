@@ -1,4 +1,4 @@
-テイレイヤー　マナブ
+低レイヤー　マナブ
 ===
 参考: https://www.sigbus.info/compilerbook
 
